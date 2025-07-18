@@ -30,6 +30,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/linux)  
 I'm **Deacon** in the Discord above — always down to chat tech, bikes, or weird niche Linux stuff.
 
+[deacon33.vercel.app](https://deacon33.vercel.app)
+This is my personal website!!!
 ---
 
 ## ⚙️ Tools I Use Often
